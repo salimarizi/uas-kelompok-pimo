@@ -7,3 +7,7 @@ This project is about finding the trending topics using Fuzzy Logic. We used Fuz
 * Kelvin William (1872020)
 * Edwin Desemsky (1872051)
 * Salim Arizi (1872054)
+
+## Video Link
+This is the video link for explanation about this project:
+https://drive.google.com/file/d/1xYlAlP-8fxUTADmDXPRgVkU75wMsGyIn/view
